@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgUDf3LJTvmqj12uIqNBKsXBsF9CgHFoNuW7RcAbEl3qM8uXA0n/5pu04JRuGtNDaKvb/3fbBNADqfh6HGdL6A==",
+  "success": true,
+  "projectFilePath": "C:\\VSPROJECTS\\API_BLOG\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARMANDO.BLACK17\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ARMANDO.BLACK17\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ARMANDO.BLACK17\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
