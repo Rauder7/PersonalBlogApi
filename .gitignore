@@ -1,0 +1,12 @@
+Application/obj/*
+Application/bin/*
+Persistence/obj/*
+Persistence/bin/*
+Domain/obj/*
+Domain/bin/*
+Shared/obj/*
+Shared/bin/*
+.vs/
+Api/obj/*
+Api/bin/*
+
